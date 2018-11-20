@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "943062232081",
+    "firebase_url": "https://lightsychat-18ac6.firebaseio.com",
+    "project_id": "lightsychat-18ac6",
+    "storage_bucket": "lightsychat-18ac6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943062232081:android:aeb5d43919d274e3",
+        "android_client_info": {
+          "package_name": "np.com.manishtuladhar.lightsychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943062232081-jbmg1ivt269udrg8fd2gr5brgs4f9567.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3VNpbE1G8Ut5zBcXDUqBHMpkAWE0RxFY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
